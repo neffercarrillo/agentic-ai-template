@@ -1,3 +1,7 @@
 # Agentic AI Template
 
-Template for my agentic AI workflows.
+Template repo for my agentic AI workflows.
+
+## How To Use
+
+Clone repo for every new project and update the AGENTS.md file as needed.
